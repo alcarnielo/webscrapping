@@ -1,0 +1,218 @@
+;prod_nome;preco_original;preco_com_desconto;prod_busca
+0;Frango a Passarinho Congelado SADIA 1kg;16.79;;sadia
+1;Filezinho Sassami de Frango Congelado SADIA 1kg;23.49;;sadia
+2;Coxinha da Asa de Frango Congelado SADIA Pacote 1kg;22.29;;sadia
+3;Frango Congelado SADIA 3kg;38.97;;sadia
+4;Peru Temperado Congelado SADIA 3,6kg;107.64;;sadia
+5;Filé de Peito de Frango Zip SADIA Pacote 1kg;24.99;;sadia
+6;Sobrecoxa de Frango Congelada SADIA Bandeja 1kg;20.29;;sadia
+7;Frango em Tiras Congelado SADIA 400g;15.29;;sadia
+8;Filé de Peito de Frango Congelado SADIA Bandeja 1kg;25.99;;sadia
+9;Pernil Suíno Temperado ao Vinho Espumante Congelado SADIA 2,7kg;96.93;;sadia
+10;Sobrecoxa de Frango Congelada SADIA Fácil Pacote 800g;18.29;;sadia
+11;Iscas de Frango Tradicional SADIA Caixa 300g;19.99;;sadia
+12;Frangos em Tiras Temperados SADIA 400g;15.29;;sadia
+13;Coxa de Frango Congelada SADIA Fácil Pacote 800g;17.29;;sadia
+14;Filé de peito Congelado SADIA 1kg;29.79;;sadia
+15;Coração de Frango Congelado SADIA 1kg;28.99;;sadia
+16;Coxa de Frango Congelada SADIA Zip Pacote 1kg;18.99;;sadia
+17;Sobrecoxa de Frango Congelada SADIA 1kg;21.79;;sadia
+18;Filezinho de Frango Sassami Congelado SADIA Bio 1kg;30.49;;sadia
+19;Filé de Peito de Frango Resfriado Temperado SADIA Fácil Pacote 700g;24.99;;sadia
+20;Coxa e Sobrecoxa de Frango Desossados SADIA Congelado 1kg;24.99;;sadia
+21;Frango a Passarinho Congelado Temperado SADIA 1kg;20.29;;sadia
+22;Coxinha da Asa Congelada Bio SADIA 1kg;23.49;;sadia
+23;Sobrecoxa de Frango Temperado Legumes SADIA 1,1kg;21.99;;sadia
+24;Salaminho SADIA 220g;25.44;;sadia
+25;Frango Temperado Congelado Inteiro SADIA Fácil 1,5Kg;38.94;;sadia
+26;Coxa e Sobrecoxa Congelada Desossada Bio SADIA 1kg;27.29;;sadia
+27;Bacon Inteiro SADIA Bandeja 300g;11.67;;sadia
+28;Peru Temperado Sabor Manteiga e Ervas Congelado SADIA 3,8kg;120.44;;sadia
+29;Coxa e Sobrecoxa a Passarinho de Frango Congelada SADIA 1kg;15.41;;sadia
+30;Meio da Asa de Frango Congelado Aperitivo SADIA Pacote 1kg;29.99;;sadia
+31;Lombo Suíno Temperado SADIA Congelado Pacote 1,3Kg;45.37;;sadia
+32;Alcatra Suína Temperada Sadia 600g;17.74;;sadia
+33;Nuggets de Frango Tradicional SADIA 700g;29.87;;sadia
+34;Copa Lombo Suíno Temperado Sadia 1,8 kg;37.62;;sadia
+35;Filé Mignon Suíno Congelado SADIA 1kg;21.9;;sadia
+36;Pernil Recheado com Purê de Maçã Sadia 1,3 kg;49.27;;sadia
+37;Yakisoba SADIA Caixa 600g;24.99;;sadia
+38;Pernil sem Osso Temperado SADIA 3kg;107.7;;sadia
+39;Tender Semi Osso Médio SADIA 2,7kg;175.45;;sadia
+40;Costela Tira Suína Congelada Sadia 1kg;26.39;;sadia
+41;Almôndega Vegetal Sadia Veg & Tal Bandeja 300g 12 Unidades;24.49;;sadia
+42;Bisteca Suína Fatiada Congelada Sadia 600g;12.59;;sadia
+43;Salamitos Pocket SADIA Pacote 36g;4.49;;sadia
+44;Queijo Mussarela Fatiada SADIA Soltíssimo Bandeja 200g;-1.0;;sadia
+45;Presunto Cozido Fatiado Sadia Soltíssimo 200g;9.99;;sadia
+46;Filé de Frango à Parmegiana SADIA Caixa 500g;26.99;;sadia
+47;Linguiça Toscana SADIA 950g;31.99;;sadia
+48;Brócolis Congelado Sadia Veg & Tal Pacote 300g;6.39;;sadia
+49;Ervilha Congelada Sadia Veg & Tal Pacote 300g;7.19;;sadia
+50;Arroz Integral Sadia 100g;9.99;;sadia
+51;Feijão Carioca Sadia 100g;9.79;;sadia
+52;Frango Vegetal em Tiras Sadia Veg & Tal Pacote 300g;25.49;;sadia
+53;Frango Vegetal Desfiado Sadia Veg & Tal Pacote 300g;25.49;;sadia
+54;Salame Italiano Fatiado SADIA 100g;19.99;14.99;sadia
+55;Frango Vegetal em Cubos Sadia Veg & Tal Pacote 300g;24.99;;sadia
+56;Salame Hamburguês Fatiado SADIA 100g;19.99;15.99;sadia
+57;Salamitos Snack Pepperoni SADIA Pacote 36g;4.49;4.04;sadia
+58;Nuggets de Frango com Queijo SADIA 300g;12.99;;sadia
+59;Purê de Mandioquinha-Salsa Sadia 100g;10.79;;sadia
+60;Salamitos Snack Limão SADIA Pacote 36g;4.49;;sadia
+61;Salame Sweet Chilli Sadia Salamitos 36g;4.49;3.59;sadia
+62;Linguiça Defumada Fininha SADIA 240g;9.69;;sadia
+63;Lasanha Bolonhesa SADIA 600g;16.99;;sadia
+64;Nuggets de Frango Crocante SADIA 300g;12.99;;sadia
+65;Lasanha de Calabresa SADIA 600g;16.99;;sadia
+66;Mortadela de Frango SADIA 400g;4.99;3.74;sadia
+67;Lasanha à Bolonhesa SADIA 1,6kg;40.77;;sadia
+68;Salsicha Hot Dog SADIA Bandeja 500g;8.96;7.17;sadia
+69;Hambúrguer Bovino SADIA Caixa 672g;28.99;;sadia
+70;Salame Italiano Mini Peça SADIA 330g;32.01;;sadia
+71;Pizza Marguerita SADIA 460g;19.99;;sadia
+72;Strogonoff de Frango SADIA 500g;26.99;;sadia
+73;Hambúrguer de Frango SADIA Caixa 672g;28.99;;sadia
+74;Nuggets de Legumes com Peito de Frango SADIA Sachê 275g;12.99;;sadia
+75;Carne Moída Vegetal Congelado Sadia 300g;32.99;;sadia
+76;Brócolis Congelado Sadia Veg & Tal Pacote 1kg;17.79;;sadia
+77;Nuggets de Frango Tradicional SADIA 300g;12.99;;sadia
+78;Torta de Frango com Catupiry SADIA Caixa 500g;33.99;;sadia
+79;Costela de Carne Suína com Molho Barbecue Sadia Speciale Caixa 700g;52.99;;sadia
+80;Linguiça Calabresa Guanabara Fina SADIA 500g;29.99;22.49;sadia
+81;Linguiça Tipo Calabresa Cozida Defumada SADIA 500g;18.99;14.24;sadia
+82;Lasanha de Presunto e Queijo SADIA 600g;16.99;;sadia
+83;Pizza de Calabresa SADIA 460g;19.99;;sadia
+84;Pizza de Mussarela SADIA 440g;19.99;;sadia
+85;Empanado de Frango Coxinha da Asa Apimentada Sadia Pacote 400g;18.99;;sadia
+86;Peru Espumante Congelado Sadia 3,8kg;60.42;;sadia
+87;Lasanha 4 Queijos SADIA 600g;16.99;;sadia
+88;Patê de Presunto SADIA 100g;5.69;;sadia
+89;Lasanha de Peito de Peru SADIA 600G;16.99;;sadia
+90;Filé de Peito de Frango com Molho de Mostarda e Mel Sadia 120g;14.29;;sadia
+91;Lasanha 4 Queijos SADIA 350g;9.85;;sadia
+92;Ossobuco de Angus com Molho de Cerveja Preta e Cebola Sadia Speciale Caixa 700g;69.99;;sadia
+93;Vegetais Grelhados Sadia 100g;12.79;;sadia
+94;Lasanha de Frango ao Sugo SADIA 600g;16.99;;sadia
+95;Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g;6.99;;sadia
+96;Lasanha à Bolonhesa Familiar SADIA 1kg;25.48;;sadia
+97;Linguiça de Frango Cozida e Defumada Sadia 480g;21.99;16.49;sadia
+98;Hambúrguer de Frango Empanado Sadia Caixa 360g;21.99;;sadia
+99;Mini Lasanha à Bolonhesa SADIA Caixa 350g;9.85;;sadia
+100;Hot Pocket X Picanha SADIA 145g;6.99;;sadia
+101;Sanduíche X Frango Hot Pocket SADIA 145g;6.99;;sadia
+102;Wrap de Frango Sadia Mostarda e Mel 180g;12.79;;sadia
+103;Hambúrguer de Frango com Pepperoni SADIA SPECIALE 300g;21.79;;sadia
+104;Hambúrguer Bovino Tradicional SADIA SPECIALE 350g;24.79;;sadia
+105;Burrito Frango com Requeijão Sadia Hot Pocket Pacote 112g;7.89;;sadia
+106;Escalope de Mignon Suíno ao Molho la Creme com Cogumelos Sadia Speciale Caixa 700g;48.49;;sadia
+107;Empanado de Frango Coxinha da Asa Congelado Sadia 400g;18.29;;sadia
+108;Escondidinho de Purê de Carne SADIA Caixa 600g;28.49;;sadia
+109;Empanado de Frango Coxinha da Asa Congelado Sadia 2kg;55.99;;sadia
+110;Queijo Prato Fatiado SADIA Soltíssimo 200g;13.49;;sadia
+111;Sanduíche Congelado X-Burguer Barbecue Sadia Hot Pocket Pacote 145g;6.99;;sadia
+112;Sanduíche X Bacon Hot Pocket SADIA 145g;6.99;;sadia
+113;Sanduíche X Burguer Hot Pocket SADIA 145g;-1.0;;sadia
+114;Copa Fatiada SADIA Pacote 100g;19.99;14.99;sadia
+115;Ervilha Congelada Sadia Veg & Tal Pacote 1kg;19.49;;sadia
+116;Pizza de 4 Queijos SADIA 460g;19.99;;sadia
+117;Lasanha de 4 Queijos Familiar SADIA 1kg;25.48;;sadia
+118;Ave Supreme Fácil Sadia 3,4kg;67.93;;sadia
+119;Peito de Peru Defumado Fatiado SADIA Soltíssimo Bandeja 200g;18.99;;sadia
+120;Bacon Defumado em Fatias SADIA 250g;21.99;;sadia
+121;Bacon Defumado em Cubos SADIA Pote 140g;-1.0;;sadia
+122;Frango Temperado Congelado Supreme SADIA 3,1kg;61.69;;sadia
+123;Moela de Frango Congelada SADIA Bandeja 1kg;20.99;;sadia
+124;Escondidinho de Purê de Batata de Frango SADIA Caixa 600g;28.49;;sadia
+125;Strogonoff de Frango com Arroz e Batata SADIA 350g;15.29;;sadia
+126;Mac'n Cheese Cheddar Sadia Pote 350g;11.99;;sadia
+127;Kibe Vegetal Congelado Sadia 300g;25.99;;sadia
+128;Salsicha Hot Dog SADIA 500g;14.99;11.99;sadia
+129;Torta com Massa de Iogurte Sadia de Frango com Palmito, Milho e Requeijão 500g;33.99;;sadia
+130;Pizza de Frango com Catupiry e Mussarela SADIA 460g;19.99;;sadia
+131;Pizza de Lombo com Catupiry e Mussarela SADIA 460g;19.99;;sadia
+132;Kit Pizza Congelada de Mussarela Sadia + Coca-Cola Original 1,5L;27.68;;sadia
+133;Mac'n Cheese Cheddar & Bacon Sadia Pote 350g;11.99;;sadia
+134;Mac'n Cheese Cheddar & Calabresa Sadia Pote 350g;11.99;;sadia
+135;Kit Pizza de Mussarela Sadia 440g + Coca-Cola Original 1,5L;27.68;;sadia
+136;Mix de Vegetais Congelados Sadia Veg & Tal Pacote 1,05kg;20.49;;sadia
+137;Peito De Frango Defumado Supreme SADIA Pacote 1Kg;49.81;;sadia
+138;Kit Pizza de Mussarela Sadia 440g + Coca-Cola Original 1,5L;27.68;;sadia
+139;Patê de Peito de Peru Defumado Sadia 100g;5.69;4.27;sadia
+140;Presunto de Parma Fatiado SADIA 100g;29.99;;sadia
+141;Batata Pré-Frita Rústica Congelada Sadia Pacote 1,05kg;24.99;;sadia
+142;Batata Pré-Frita Palito Congelada Sadia Pacote 1,05kg;17.29;;sadia
+143;Batata Pré-Frita Canoa Congelada Sadia Pacote 1,05kg;22.99;;sadia
+144;Sanduíche Congelado X-Cheddar Cremoso Sadia Hot Pocket Pacote 145g;6.99;;sadia
+145;Torta com Massa de Iogurte Recheio Brócolis com Requeijão Sadia Veg & Tal 500g;25.29;;sadia
+146;Sanduíche Congelado X-Burguer Maionese Grill Sadia Hot Pocket Pacote 145g;6.99;;sadia
+147;Torta com Massa de Iogurte Recheio Espinafre com Ricota Sadia Veg & Tal 500g;25.29;;sadia
+148;Torta de Palmito com Requeijão Massa de Iogurte SADIA 500g;33.99;;sadia
+149;Salame Italiano Fatiado Com Borda Temperada Sabor Pimenta Preta SADIA Speciale Pacote 100g;22.99;17.24;sadia
+150;Peito de Peru Temperado Congelado SADIA 900g;-1.0;;sadia
+151;Filezinho de Frango Sassami Orgânico Sadia 600g;-1.0;;sadia
+152;Filé de Peito de Frango Congelado Orgânico sem Pele sem Osso Sadia 600g;-1.0;;sadia
+153;Frangos em Cubis Temperados SADIA 400g;-1.0;;sadia
+154;Sobrecoxa de Frango Congelada SADIA Pacote 1kg;-1.0;;sadia
+155;Peito de Frango Cozido Congelado Desfiado Sadia Na Receita Pacote 400g;21.29;;sadia
+156;Sobrecoxa de Frango Congelada Orgânica Sadia 600g;-1.0;;sadia
+157;Filé de Peito de Frango Congelado Temperado sem Pele sem Osso SADIA 1kg;22.99;;sadia
+158;Coxinha Da Asa De Frango SADIA Orgânica Caixa 600g;-1.0;;sadia
+159;Mini Tender Bolinha SADIA 1Kg;-1.0;;sadia
+160;Lombo Suíno Congelado SADIA 1,5kg;-1.0;;sadia
+161;Pernil Suíno Congelado SADIA 6Kg;113.84;;sadia
+162;Filé Mignon Suíno Temperado Sadia 500g;-1.0;;sadia
+163;Presunto Cozido Sem Capa De Gordura SADIA Fatiado Bandeja 150g;-1.0;;sadia
+164;Lombo Fácil Suíno Temperado Congelado SADIA 1,3kg;-1.0;;sadia
+165;Linguiça Calabresa Defumada SADIA Bandeja 500g;-1.0;;sadia
+166;Linguiça Toscana SADIA Bandeja 500g;-1.0;;sadia
+167;Salame Italiano Fatiado SADIA Bandeja 100g;-1.0;;sadia
+168;Salame Pepperoni Fatiado Sadia 100g;19.99;14.99;sadia
+169;Presunto Cozido Livre Leve Sadia Fatiado 100g;-1.0;;sadia
+170;Salame Hamburgues Fatiado SADIA Bandeja 100g;-1.0;;sadia
+171;Burrito Costelinha ao Molho Barbecue Sadia Hot Pocket Pacote 112g;-1.0;;sadia
+172;Couve-Flor Congelada Sadia Veg & Tal Pacote 1kg;18.79;;sadia
+173;Parmegiana de Frango com Arroz e Batata SADIA Caixa 350g;-1.0;;sadia
+174;Apresuntado Fatiado SADIA Bandeja 150g;-1.0;;sadia
+175;Presunto Royale SADIA Fatiado Bandeja 150g;-1.0;;sadia
+176;Linguiça Tipo Paio SADIA Pacote 370g;-1.0;;sadia
+177;Linguiça Tipo Portuguesa SADIA Pacote 400g;-1.0;;sadia
+178;Couve-Flor Congelada Sadia Veg & Tal Pacote 300g;-1.0;;sadia
+179;Kibe Congelado Sadia Pouch 900g;-1.0;;sadia
+180;Sanduíche Congelado Cheddar Sadia Veg & Tal Pacote 145g;-1.0;;sadia
+181;Peito De Peru Defumado Fatiado SADIA Bandeja 150g;-1.0;;sadia
+182;Peito De Peru Defumado Sem Casca Light SADIA Bandeja 150g;-1.0;;sadia
+183;Kit Peito de Peru Sadia temperado congelado kg + Cerveja Baden Christmas 600 ml;-1.0;;sadia
+184;Kit Peru manteiga Ervas Congeladas Sadia 4 kg + Cerveja Baden Ipa 600 ml;133.33;;sadia
+185;Lasanha Verde à Bolonhesa SADIA 600g;16.99;;sadia
+186;Mortadela Defumada Fatiada SADIA Bandeja 150g;-1.0;;sadia
+187;Burrito Carne e Feijão Sadia Hot Pocket Pacote 112g;-1.0;;sadia
+188;Almôndega de Carne Bovina Sadia Pouch 900g;-1.0;;sadia
+189;Filé Mignon Suíno Fatiado SADIA Congelado Pacote 800g;-1.0;;sadia
+190;Peru Assa Fácil! Temperado Congelado SADIA 4Kg;-1.0;;sadia
+191;Compre 1 Peru SADIA + R$0,01 Leve 1 Lasanha SADIA Bolonhesa 600g;124.63;;sadia
+192;Compre 1 Peru SADIA + R$0,01 Leve 1 Lasanha SADIA 4 Queijos 600g;124.63;;sadia
+193;Blanquet de Peru Light Fatiado SADIA Bandeja 150g;-1.0;;sadia
+194;Compre 1 Peru SADIA + R$0,01 Leve 1 Lasanha SADIA Presunto e Queijo 600g;124.63;;sadia
+195;Compre 1 Peru SADIA + R$0,01 Leve 1 Lasanha SADIA Frango 600g;124.63;;sadia
+196;Compre 1 Peru SADIA + R$0,01 Leve 1 Lasanha SADIA Verde 600g;124.63;;sadia
+197;Compre 1 Peru SADIA + R$0,01 Leve 1 Lasanha SADIA Calabresa 600g;124.63;;sadia
+198;Compre 1 Peru SADIA + R$0,01 Leve 1 Lasanha SADIA Peito de Peru 600g;124.63;;sadia
+199;Batata Pré-Frita Palito Congelada Sadia Pacote 400g;7.09;;sadia
+200;Lombo Suíno Fatiado SADIA Congelado Pacote 800g;-1.0;;sadia
+201;Batata Pré-Frita Letrinhas Congelada Sadia Pacote 400g;-1.0;;sadia
+202;Copa Lombo Suína Fatiada SADIA Congelado Pacote 800g;-1.0;;sadia
+203;Batata Pré-Frita Noisette Congelada Sadia Pacote 400g;-1.0;;sadia
+204;Kit Peru Temperado Congelado SADIA 3,3kg + Margarina Cremosa com Sal QUALY Pote 500g;116.63;;sadia
+205;Kit Amor SADIA Contém 1 Peru Temperado 3,9kg, 1 Ave Supreme 3,6kg, 1 Copa Lombo 900g e 1 Bolsa Térmica 28 Litros;-1.0;;sadia
+206;Hambúrguer Vegetariano SADIA Veg & Tal Pacote 226g;-1.0;;sadia
+207;Kit Sucesso SADIA Contém Bolsa Térmica e 1 Ave Supreme;-1.0;;sadia
+208;Kit Pizza de Lombo com Catupiry e Mussarela Sadia 460g + Coca-cola Sem açucar 1,5L;27.18;;sadia
+209;Kit Amizade SADIA Contém 1 Peru Tradicional 1 Pernil Temperado1 Bolsa Térmica Tiracolo;-1.0;;sadia
+210;Nugget Vegetal Sadia Veg & Tal Bandeja 200g;-1.0;;sadia
+211;Kit Vitória SADIA Contém 1 Peru Tradicional Temperado e 1 Bolsa Térmica;-1.0;;sadia
+212;Kibe Bovino SADIA Caixa 500g;29.99;;sadia
+213;Kit Pizza de Lombo com Catupiry e Mussarela Sadia 460g + Coca-cola Sem açucar 1,5L;27.18;;sadia
+214;Almôndegas de Carne Bovina SADIA Caixa 500g;-1.0;;sadia
+215;Kit Alegria SADIA Contém 1 Bolsa Térmica, 1 Peru Tradicional Temperado e 1 Lombo Suíno Temperado;-1.0;;sadia
+216;Kit 4 Cervejas EISENBAHN American IPA Garrafa 355ml + Salame Italiano Fatiado SADIA 100g;41.15;;sadia
