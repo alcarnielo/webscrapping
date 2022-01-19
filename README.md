@@ -11,3 +11,10 @@ On this project, a python code was created to:
   - search for some given key word (produto)
   - store the products related to the key word in a dataframe
   - save the resulting DataFrame into a csv flie
+
+
+## get_lat_long
+On this project a python code was created to:
+  - search a given address on google maps
+  - extract the latitude and longitude from this address
+  - store the latitude and longitude data into a dataframe
