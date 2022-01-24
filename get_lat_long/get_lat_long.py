@@ -252,7 +252,7 @@ if __name__ =='__main__':
         loc['Place'] = place
         loc['Lat'] = lat
         loc['Long'] = long
-        loc['cosine_sim']
+        loc['cosine_sim'] = cosine_sim
         print(f'{lat}       {long}')
         
         data = data.append(loc, ignore_index=True)
