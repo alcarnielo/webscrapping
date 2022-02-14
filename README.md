@@ -18,3 +18,9 @@ On this project a python code was created to:
   - search a given address on google maps
   - extract the latitude and longitude from this address
   - store the latitude and longitude data into a dataframe
+
+## vancouver_craigslist
+This code was created to:
+  - perform a simple search on Vancouver Craigslist
+  - register the output of the search into a txt file (output.txt)
+
