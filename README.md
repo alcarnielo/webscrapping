@@ -24,3 +24,6 @@ This code was created to:
   - perform a simple search on Vancouver Craigslist
   - register the output of the search into a txt file (output.txt)
 
+## get_crimes
+On this project, a python code was created to:
+  - perform a webscrapping of all registered crimes in the São Paulo State Safety Office (Secretaria de Segurança Publica)
